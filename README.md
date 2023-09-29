@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nalusqr" target="blank"><img src="https://img.shields.io/twitter/follow/nalusqr?logo=twitter&style=for-the-badge" alt="nalusqr" /></a> </p>
 
-- 🔭 I’m currently studying Design and Software Development **.**
+- 🔭 I’m currently studying Design and Software Development. **.**
 
 - 👯 I try to collaborate with good and interesting projects. **.**
 
